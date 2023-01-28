@@ -30,4 +30,10 @@ Prima di scendere nel dettaglio dei vari punti della guida, alcune considerazion
 
 ## 2) Foto profilo e foto copertina
 
+Rispetto al CV, su LinkedIn la foto profilo è FONDAMENTALE (uno studio rivela che chi ha una foto profilo professionale ha 20x visualizzazioni del profilo rispetto a chi non ha una foto). Usane una professionale (NO foto sgranate, NO fototessere di 20 anni fa, NO foto al mare..insomma hai capito), ti prego. Come ho scritto nella guida al CV, se non hai una foto anche un avatar o una illustrazione vanno bene. Ma anche qui, che siano professionali, non fatte con Paint ecco.
+Riguardo l'immagine di copertina: non è a mio avviso fondamentale ma io la sfrutterei per un tocco di personalizzazione: un pezzettino di codice? Una quote famosa? Un meme? Ecco, potete usare l'immagine di copertina per "trasmettere qualcosa" a chi visita il vostro profilo. Sfruttatela!
+
+## 3) Sezione intro ed headline
+
+
 

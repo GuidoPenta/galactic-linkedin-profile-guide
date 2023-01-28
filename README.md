@@ -1,8 +1,8 @@
 # awesome-linkedin-profile-guide
-Tips and Tricks for a great Linkedin profile
+
 ![LinkedIn_Logo_2013.png](./LinkedIn_Logo_2013.png)
 
-_Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn. Esattamente come la guida al CV (che, se vuoi, trovi <a href="https://guidopenta.github.io/galactic-CV-guide/">Qui</a> ). 
+_Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattamente come la guida al CV (che, se vuoi, trovi <a href="https://guidopenta.github.io/galactic-CV-guide/">Qui</a> ) l'obiettivo è quello di darti degli spunti utili a rendere il tuo profilo LinkedIn attrattivo ma soprattutto "keyword-friendly". Essendo un social network professionale, lo scopo della guida è semplice: farti trovare!_
 
 1) Considerazioni preliminari (opentowork solo per recruiter, altro)
 2) Foto profilo e foto copertina

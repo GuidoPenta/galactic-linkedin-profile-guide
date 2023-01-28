@@ -5,7 +5,7 @@
 _Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattamente come la guida al CV (che trovi <a href="https://guidopenta.github.io/galactic-CV-guide/">qui</a> ) l'obiettivo è quello di darti degli spunti utili a rendere il tuo profilo LinkedIn attrattivo ma soprattutto "keyword-friendly". Essendo un social network professionale, lo scopo della guida è semplice: farti trovare!_
 
 
-##Indice
+## Indice 
 
 1. [Indicazioni generali](#1-indicazioni-generali)
 2. [Foto profilo e foto copertina](#2-foto-profilo-e-foto-copertina)

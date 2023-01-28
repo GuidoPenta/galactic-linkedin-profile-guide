@@ -1,4 +1,4 @@
-# awesome-linkedin-profile-guide
+# Guida Galattica al profilo LinkedIn
 
 ![LinkedIn_Logo_2013.png](./LinkedIn_Logo_2013.png)
 

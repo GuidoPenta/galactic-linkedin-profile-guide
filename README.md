@@ -15,3 +15,4 @@ Tips and Tricks for a great Linkedin profile
 11) Referenze
 11) Considerazioni finali
 
+![LinkedIn_Logo_2013.png](./LinkedIn_Logo_2013.png)

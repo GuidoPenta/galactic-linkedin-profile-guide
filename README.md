@@ -23,3 +23,6 @@ _Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattament
 ## 1) Indicazioni generali
 
 LinkedIn, nel mondo, conta circa XXX milioni di utenti attivi, di cui circa XXX in Italia. Per il settore tech è, senza dubbio, lo strumento migliore che le persone che lavorano come recruiter/head hunters/talent acquisition usano tutti i giorni per trovare professionisti/e del settore IT.
+Prima di scendere nel dettaglio dei vari punti della guida, alcune considerazioni generali per iniziare al meglio:
+- Lo so, moltissimi recruiter non conoscono il tuo gergo, i nomi delle tecnologie, dei framework, confondono Java con Javascript (no, non sono la stessa cosa) e così via. E questo, so anche questo, ti fa incazzare. MA, ti prego, cerca comunque di essere sempre comprensivo ed empatico verso chi ti scrive. Cerca, per quanto possibile, di rispondere sempre ai messaggi che ricevi perché dall'altra parte c'è comunque una persona che sta lavorando e che merita rispetto esattamente come lo meriti tu. Se al momento non sei in cerca di un nuovo lavoro, ti consiglio magari di prepararti un testo preimpostato da inviare a chi ti scrive. Tu perdi pochi secondi di tempo e ti assicuro che chi c'è dall'altra parte apprezzerà!
+- 

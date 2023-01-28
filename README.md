@@ -1,6 +1,6 @@
 # awesome-linkedin-profile-guide
 Tips and Tricks for a great Linkedin profile
-
+![LinkedIn_Logo_2013.png](./LinkedIn_Logo_2013.png)
 
 1) Considerazioni preliminari (opentowork solo per recruiter, altro)
 2) Foto profilo e foto copertina
@@ -15,4 +15,4 @@ Tips and Tricks for a great Linkedin profile
 11) Referenze
 11) Considerazioni finali
 
-![LinkedIn_Logo_2013.png](./LinkedIn_Logo_2013.png)
+

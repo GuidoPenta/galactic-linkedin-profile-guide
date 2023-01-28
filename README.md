@@ -18,3 +18,6 @@ _Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattament
 11) Considerazioni finali
 
 
+1) Considerazioni preliminari
+
+LinkedIn, nel mondo, conta circa XXX milioni di utenti attivi, di cui circa XXX in Italia. Per il settore tech è, senza dubbio, lo strumento migliore che le persone che lavorano come recruiter/head hunters/talent acquisition usano tutti i giorni per trovare professionisti/e del settore IT.

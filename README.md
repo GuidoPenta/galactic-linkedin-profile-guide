@@ -37,11 +37,15 @@ Riguardo l'immagine di copertina: non è a mio avviso fondamentale ma io la sfru
 ## 3) La headline
 
 Immediatamente dopo aver settato la foto profilo e l'immagine di copertina, bisogna porre la massima attenzione a quest'altra importantissima sezione del profilo, ovvero la headline: è la sezione testuale che si trova immediatamente sotto la foto, che di norma comprende il sommario e la posizione lavorativa attuale.
-Nell'immagine sottostante trovate un ottimo esempio, a mio avviso, ovvero la headline di Patryk, un developer molto attivo su Linkedin e che a mio avviso ha un profilo estremamente curato in tutti i suoi dettagli:
+Nell'immagine sottostante trovate un ottimo esempio, ovvero la headline di Patryk: un developer molto attivo su Linkedin e che a mio avviso ha un profilo estremamente curato in tutti i suoi dettagli.
 
 ![headline-patryk.png](./assets/images/headline-patryk.png)
 
+Ma perché la sua headline funziona? Semplice: fornisce in maniera veloce ma efficace una overview prima di tutto dello stack tecnologico che utilizza e conosce (nel suo caso sia per la parte FE che per la parte BE) ma anche un ulteriore spunto riguardo la sua passione per l'open source.
+Inoltre, e questa è una cosa importantissima, tutte le tecnologie/framework che ha inserito nella headline sono delle keyword (ricordi? Ne abbiamo parlato nell'introduzione) quindi i recruiter ricercando ad esempio un dev che conosca sia Typescript che React sicuramente capiteranno sul profilo di Patryk perché quel testo nelle headline funge da parola chiave. 
+A prescindere dalle keyword, la headline è a colpo d'occhio una delle primissime cose che si notano sul profilo: è uno spazio dove devi riuscire a comunicare in poche righe chi sei, cosa fai (ed eventualmente, cosa cerchi). Sfruttala AL MASSIMO!
 
+## 4) Post in primo piano
 
 
 

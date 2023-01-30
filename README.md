@@ -9,7 +9,7 @@ _Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattament
 
 1. [Indicazioni generali](#1-indicazioni-generali)
 2. [Foto profilo e foto copertina](#2-foto-profilo-e-foto-copertina)
-3. [Sezione Intro ed Headline](#3-sezione-intro-ed-headline)
+3. [La Headline](#3-la-headline)
 4. [Post in primo piano](#4-post-in-primo-piano)
 5. [Sezione Informazioni (about me)](#5-sezione-informazioni-about-me)
 6. [Le esperienze professionali](#6-le-esperienze-professionali)
@@ -34,7 +34,12 @@ Prima di scendere nel dettaglio dei vari punti della guida, alcune considerazion
 Rispetto al CV, su LinkedIn la foto profilo è FONDAMENTALE (uno studio rivela che chi ha una foto profilo professionale ha 20x visualizzazioni del profilo rispetto a chi non ha una foto). Usane una professionale (NO foto sgranate, NO fototessere di 20 anni fa, NO foto al mare..insomma hai capito), ti prego. Come ho scritto nella guida al CV, se non hai una foto anche un avatar o una illustrazione vanno bene. Ma anche qui, che siano professionali, non fatte con Paint ecco.
 Riguardo l'immagine di copertina: non è a mio avviso fondamentale ma io la sfrutterei per un tocco di personalizzazione: un pezzettino di codice? Una quote famosa? Un meme? Ecco, potete usare l'immagine di copertina per "trasmettere qualcosa" a chi visita il vostro profilo. Sfruttatela!
 
-## 3) Sezione intro ed headline
+## 3) La headline
+
+Immediatamente dopo aver settato la foto profilo e l'immagine di copertina, bisogna porre la massima attenzione a quest'altra importantissima sezione del profilo, ovvero la headline: è la sezione testuale che si trova immediatamente sotto la foto, che di norma comprende il sommario e la posizione lavorativa attuale.
+Nell'immagine sottostante trovate un ottimo esempio, a mio avviso, ovvero la headline di Patryk, un developer molto attivo su Linkedin e che a mio avviso ha un profilo estremamente curato in tutti i suoi dettagli:
+
+![headline-patryk.png](./assets/images/headline-patryk.png)
 
 
 

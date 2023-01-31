@@ -44,7 +44,11 @@ Ma perché la sua headline funziona? Semplice: fornisce in maniera veloce ma eff
 Inoltre, e questa è una cosa importantissima, tutte le tecnologie/framework che ha inserito nella headline sono delle keyword (ricordi? Ne abbiamo parlato nell'introduzione) quindi i recruiter ricercando ad esempio un dev che conosca sia Typescript che React sicuramente capiteranno sul profilo di Patryk perché quel testo nelle headline funge da parola chiave. 
 A prescindere dalle keyword, la headline è a colpo d'occhio una delle primissime cose che si notano sul profilo: è uno spazio dove devi riuscire a comunicare in poche righe chi sei, cosa fai (ed eventualmente, cosa cerchi). Sfruttala AL MASSIMO!
 
-## 4) Post in primo piano
+## 4) Sezione informazioni
 
+Esattamente come l'about me sul curriculum, questa sezione sul tuo profilo è utilissima per fornire una overview approfondita delle tue esperienze lavorative, i linguaggi/tecnologie/framework che conosci e che utilizzi, obiettivi futuri, attività che segui giornalmente e perché no, anche informazioni che potrebbero sembrare poco utili (hobbies, cosa ti piace fare nel tempo libero, i libri che stai leggendo, le persone che segui, i progetti che sviluppi nel tempo libero) ma che forniscono a chi legge una vista più completa e dettagliata su di te. 
+Ti riporto un esempio di una sezione informazioni estremamente dettagliata di un senior dev che ho fra i contatti:
+
+![informazioni-about-me.png](./assets/images/informazioni-about-me.png)
 
 

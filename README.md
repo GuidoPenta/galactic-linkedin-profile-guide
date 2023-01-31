@@ -10,15 +10,14 @@ _Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattament
 1. [Indicazioni generali](#1-indicazioni-generali)
 2. [Foto profilo e foto copertina](#2-foto-profilo-e-foto-copertina)
 3. [La Headline](#3-la-headline)
-4. [Post in primo piano](#4-post-in-primo-piano)
-5. [Sezione Informazioni (about me)](#5-sezione-informazioni-about-me)
-6. [Le esperienze professionali](#6-le-esperienze-professionali)
-7. [La formazione](#7-la-formazione)
-8. [Licenze e certificazioni](#8-licenze-e-certificazioni)
-9. [Competenze](#9-competenze)
-10. [Lingue](#10-lingue)
-11. [Referenze](#11-referenze)
-12. [Considerazioni-finali](#12-considerazioni-finali)
+4. [Sezione Informazioni (about me)](#4-sezione-informazioni-about-me)
+5. [Le esperienze professionali](#5-le-esperienze-professionali)
+6. [La formazione](#6-la-formazione)
+7. [Licenze e certificazioni](#7-licenze-e-certificazioni)
+8. [Competenze](#8-competenze)
+9. [Lingue](#9-lingue)
+10. [Referenze](#10-referenze)
+11. [Considerazioni-finali](#11-considerazioni-finali)
 
 ## 1) Indicazioni generali
 
@@ -47,5 +46,5 @@ A prescindere dalle keyword, la headline è a colpo d'occhio una delle primissim
 
 ## 4) Post in primo piano
 
-Lorem Ipsum
+
 

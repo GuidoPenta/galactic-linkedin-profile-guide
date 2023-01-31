@@ -52,3 +52,31 @@ Ti riporto un esempio di una sezione informazioni estremamente dettagliata di un
 ![informazioni-about-me.png](./assets/images/informazioni-about-me.png)
 
 La sezione informazioni, così come compilata nell'esempio, contiene tutte le informazioni che servono ad un/una recruiter: una breve descrizione di sè e dell'approccio al lavoro, un elenco esaustivo di tecnologie/linguaggi/framework/software/metodologie (ed indovinate un pò? SONO TUTTE KEYWORD! ) ed anche ulteriori input riguardo la gestione del team, la capacità di seguire colloqui tecnici e l'abitudine al lavoro Agile. Prendi spunto!
+
+## 5) Le esperienze professionali
+
+Lorem Ipsum
+
+## 6) La formazione
+
+Lorem Ipsum
+
+## 7) Licenze e certificazioni
+
+Lorem Ipsum
+
+## 8) Competenze
+
+Lorem Ipsum
+
+## 9) Lingue
+
+Lorem Ipsum
+
+## 10) Referenze
+
+Lorem Ipsum
+
+## 11) Considerazioni finali
+
+Lorem Ipsum

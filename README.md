@@ -80,25 +80,24 @@ Una cosa che noto SPESSISSIMO sui profili LinkedIn che visito giornalmente è la
 La sezione competenze DEVE essere curata e tenuta in ordine per vari motivi, ti spiego come:
 - aggiorna costantemente la sezione, eliminando tecnologie/linguaggi/framework che non usi più (o che conosci ma non vuoi più utilizzare professionalmente) per evitare di ricevere proposte di lavoro con tecnologie che non ti interessano
 - una cosa importantissima è ordinare le competenze: metti in cima le competenze sulle quali sei più forte e alla fine quelle dove ti senti meno competente
-- LinkedIn ti dà la possibiltità di mettere "in evidenza" la tua top three di competenze, che appariranno subito sul tuo profilo: ricoleggandomi quindi al punto precedente, scegli le tre competenze dove ti senti più skillato
+- LinkedIn ti dà la possibiltità di mettere "in evidenza" la tua top three di competenze, che appariranno subito sul tuo profilo: ricollegandomi quindi al punto precedente, scegli le tre competenze dove ti senti più skillato e spostale in alto.
 - avevamo parlato delle competenze anche nel punto 5, le esperienze professionali: LinkedIn ti permette di "legare" le competenze all'esperienza professionale, super utile per dimostrare che competenze stai utilizzando nell'attuale ruolo che ricopri.
 - chiedi a colleghi/amici/collegamenti di confermarti le competenze: è ovviamente una pura vanity metric ma probabilmente sai meglio di me che "l'effetto wow" di vedere una competenza confermata da tante persone funziona, quindi fallo!
 
 ## 9) Lingue
 
 Esattamente come per il CV, la sezione lingue fornisce la possibilità di comunicare la tua conoscenza di una o più lingue che non siano la madrelingua (nel nostro caso, ovviamente, l'italiano). Mi capita ad esempio di gestire selezioni dove è assolutamente obbligatoria la conoscenza dell'inglese (perché magari il team è internazionale, l'azienda ha clienti esteri, si sta espandendo fuori dall'Italia, etc), di conseguenza dimostrare una conoscenza di una lingua straniera mi aiuta a capire se il profilo che sto visitando soddisfa quel requisito. 
-
 Se hai certificazioni o attestati di lingua, è assolutamente ottima cosa inserirli nella sezione di cui abbiamo parlato prima, ovvero "Licenze e certificazioni".
 
 ## 10) Referenze
 
 Ecco un'altra sezione che adoro visitare (sì, sono strano, questo lo conferma). Le recensioni sono un'arma potentissima che davvero in pochissimi sfruttano. E' impossibile non avere un collega, manager, ex-capo, collaboratore, consulente esterno al quale poter chiedere una referenza (a meno che tu non sia il Grinch e non abbia amici, ovviamente). E' davvero una richiesta che costa pochi minuti ed aiuta tantissimo ad arricchire il tuo profilo ed ad aumentare il tuo personal branding.
 
-Fun fact: mentre visitavo un profilo di un developer (che, a prima vista, non mi convinceva particolarmente) ho notato che aveva ricevuto una referenza da un manager di alto livello che conosco bene. La referenza mi ha quindi spinto ad indagare maggiormente, contattando il developer che, infatti, ha confermato la referenza positiva che aveva ricevuto dal manager. Probabilmente, se non ci fosse stata quella referenza, non lo avrei mai contattato!
+Fun fact: mentre visitavo un profilo di un developer (che, a prima vista, non mi convinceva particolarmente) ho notato che aveva ricevuto una referenza da un manager di alto livello che conosco bene. La referenza mi ha quindi spinto ad indagare maggiormente, contattando il developer che, infatti, durante il colloquio ha confermato l'attitudine e le skill che riportava la referenza positiva che aveva ricevuto dal manager. Probabilmente, se non ci fosse stata quella referenza, non lo avrei mai contattato!
 
 ## 11) Considerazioni finali
 
-Se sei arrivato fin qui ti ringrazio, perché come puoi notare il dono della sintesi non mi appartiene (probabilmente lo avrai notato anche leggendo la guida al CV, che è ancora più lunga di questa guida). In realtà, per dovere di cronaca, ho volontariamente omesso moltissimi altri temi e funzionalità di LinkedIn a mio avviso interessanti ed estremamente utili (chi ti ha visitato il profilo, le visualizzazioni organiche, l'uso degli hashtag, il profilo creator, e molto altro ancora), ma l'ho fatto semplicemente per un motivo pratico, ovvero cercare di non appesantire questa guida con eccessivo nozionismo o tecnicismi verticali della piattaforma.
+Se sei arrivato fin qui ti ringrazio, perché come puoi notare il dono della sintesi non mi appartiene (probabilmente lo avrai notato anche leggendo la guida al CV, che è ancora più lunga di questa). In realtà, per dovere di cronaca, ho volontariamente omesso moltissimi altri temi e funzionalità di LinkedIn a mio avviso interessanti ed estremamente utili (chi ti ha visitato il profilo, le visualizzazioni organiche dei post, l'uso degli hashtag, il profilo creator, l'algoritmo, il link nel post e nei commenti e molto altro ancora), ma l'ho fatto semplicemente per un motivo pratico, ovvero cercare di non appesantire questa guida con eccessivo nozionismo o tecnicismi verticali della piattaforma.
 Lo so, sei un dev, tu nei tecnicismi probabilmente ci sguazzi, ed hai anche ragione! Ma, ecco, l'obiettivo è rendere fruibili e "leggere" queste guide senza scendere troppo nel tecnico e scadere nella noia più totale.
 
-Spero non ti sia addormentato!
+Se non ti sei addormentato, grazie di nuovo!

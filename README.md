@@ -64,15 +64,25 @@ Che dire di questa sezione? E' in assoluto una delle più importanti dell'intero
 ## 6) La formazione
 
 La sezione del profilo LinkedIn dedicata alla formazione viene spesso tralasciata, ma in realtà è importante tanto quanto le altre sezioni. E' una delle sezioni, infatti, che viene "letta" dai vari filtri di Linkedin Recruiter nel momento in cui i recruiter impostano una ricerca mirata (ad esempio: uno specifico titolo di studio, una particolare università o uno specifico indirizzo). Quindi presta molta attenzione a questa sezione e compilala in maniera esaustiva. Inserisci quindi il nome della facoltà, l'indirizzo scelto, il voto di laurea, ed i nomi degli esami che a tuo avviso potrebbero essere affini al tuo percorso professionale. 
+
 Se stai frequentando una Academy/Bootcamp IT, ovviamente inserirlo ti farà apparire come studente di quella academy, e sicuramente aiuta nell'indicizzazione del tuo profilo (anche perché, scrivendo le parole chiave relative alle tecnologie/linguaggi che stai studiando, inserisci ulteriori parole chiave sul tuo profilo che, come avrai capito, sono fondamentali).
 
 ## 7) Licenze e certificazioni
 
-Lorem Ipsum
+Personalmente, è una delle sezioni che leggo con più interesse e curiosità sui profili Linkedin che visito (ma io sono un animale strano, adoro leggere la sezione hobby sul CV quindi probabilmente faccio poco testo). Nota bene: non sono un tecnico, di conseguenza non riesco a carpire il reale "valore tecnico" di una certificazione x piuttosto che y ma, il fatto di avere certificazioni, attestati e licenze denota un certo approccio alla auto-formazione che a mio avviso è un plus. Ok, alcune aziende richiedono obbligatoriamente delle certificazioni (penso ad esempio alla Green Belt Six Sigma, ormai imprescindibile per le basi di un buon Project Manager, o le certificazioni cloud AWS/Azure/Google Cloud) per accedere alle loro selezioni o per un avanzamento di carriera, e questo ci sta. 
+
+Ma molto spesso, invece, non c'è alcun obbligo per un/una professionista di certificarsi e formarsi, sta semplicemente alla volontà del singolo di accrescere le proprie competenze e conoscenze in maniera "ufficiale", con un certifcato o una specifica licenza. Questo, personalmente, lo apprezzo moltissimo e lo trovo un ottimo spunto di conversazione durante i colloqui. Di conseguenza, questa sezione è assolutamente adatta per mettere in mostra la tua propensione all'apprendimento ed alla tua crescita professionale.
 
 ## 8) Competenze
 
-Lorem Ipsum
+Una cosa che noto SPESSISSIMO sui profili LinkedIn che visito giornalmente è la scarsa cura di questa sezione, che in realtà è SUPER SUPER importante, assieme alla sezione sulle esperienze professionali. Qual'è la parola di cui ho ampiamente abusato in questa guida? KEYWORD. Ecco, è esattamente la sezione competenze che alimenta in maniera decisamente importante il vostro comparire (o meno) fra le ricerche dei recruiter.
+
+La sezione competenze DEVE essere curata e tenuta in ordine per vari motivi, ti spiego come:
+- aggiorna costantemente la sezione, eliminando tecnologie/linguaggi/framework che non usi più (o che conosci ma non vuoi più utilizzare professionalmente) per evitare di ricevere proposte di lavoro con tecnologie che non ti interessano
+- una cosa importantissima è ordinare le competenze: metti in cima le competenze sulle quali sei più forte e alla fine quelle dove ti senti meno competente
+- LinkedIn ti dà la possibiltità di mettere "in evidenza" la tua top three di competenze, che appariranno subito sul tuo profilo: ricoleggandomi quindi al punto precedente, scegli le tre competenze dove ti senti più skillato
+- avevamo parlato delle competenze anche nel punto 5, le esperienze professionali: LinkedIn ti permette di "legare" le competenze all'esperienza professionale, super utile per dimostrare che competenze stai utilizzando nell'attuale ruolo che ricopri.
+- chiedi a colleghi/amici/collegamenti di confermarti le competenze: è ovviamente una pura vanity metric ma probabilmente sai meglio di me che "l'effetto wow" di vedere una competenza confermata da tante persone funziona, quindi fallo!
 
 ## 9) Lingue
 

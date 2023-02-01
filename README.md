@@ -86,11 +86,15 @@ La sezione competenze DEVE essere curata e tenuta in ordine per vari motivi, ti 
 
 ## 9) Lingue
 
-Lorem Ipsum
+Esattamente come per il CV, la sezione lingue fornisce la possibilità di comunicare la tua conoscenza di una o più lingue che non siano la madrelingua (nel nostro caso, ovviamente, l'italiano). Mi capita ad esempio di gestire selezioni dove è assolutamente obbligatoria la conoscenza dell'inglese (perché magari il team è internazionale, l'azienda ha clienti esteri, si sta espandendo fuori dall'Italia, etc), di conseguenza dimostrare una conoscenza di una lingua straniera mi aiuta a capire se il profilo che sto visitando soddisfa quel requisito. 
+
+Se hai certificazioni o attestati di lingua, è assolutamente ottima cosa inserirli nella sezione di cui abbiamo parlato prima, ovvero "Licenze e certificazioni".
 
 ## 10) Referenze
 
-Lorem Ipsum
+Ecco un'altra sezione che adoro visitare (sì, sono strano, questo lo conferma). Le recensioni sono un'arma potentissima che davvero in pochissimi sfruttano. E' impossibile non avere un collega, manager, ex-capo, collaboratore, consulente esterno al quale poter chiedere una referenza (a meno che tu non sia il Grinch e non abbia amici, ovviamente). E' davvero una richiesta che costa pochi minuti ed aiuta tantissimo ad arricchire il tuo profilo ed ad aumentare il tuo personal branding.
+
+Fun fact: mentre visitavo un profilo di un developer (che, a prima vista, non mi convinceva particolarmente) ho notato che aveva ricevuto una referenza da un manager di alto livello che conosco bene. La referenza mi ha quindi spinto ad indagare maggiormente, contattando il developer che, infatti, ha confermato la referenza positiva che aveva ricevuto dal manager. Probabilmente, se non ci fosse stata quella referenza, non lo avrei mai contattato!
 
 ## 11) Considerazioni finali
 

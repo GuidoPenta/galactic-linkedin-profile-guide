@@ -98,4 +98,7 @@ Fun fact: mentre visitavo un profilo di un developer (che, a prima vista, non mi
 
 ## 11) Considerazioni finali
 
-Lorem Ipsum
+Se sei arrivato fin qui ti ringrazio, perché come puoi notare il dono della sintesi non mi appartiene (probabilmente lo avrai notato anche leggendo la guida al CV, che è ancora più lunga di questa guida). In realtà, per dovere di cronaca, ho volontariamente omesso moltissimi altri temi e funzionalità di LinkedIn a mio avviso interessanti ed estremamente utili (chi ti ha visitato il profilo, le visualizzazioni organiche, l'uso degli hashtag, il profilo creator, e molto altro ancora), ma l'ho fatto semplicemente per un motivo pratico, ovvero cercare di non appesantire questa guida con eccessivo nozionismo o tecnicismi verticali della piattaforma.
+Lo so, sei un dev, tu nei tecnicismi probabilmente ci sguazzi, ed hai anche ragione! Ma, ecco, l'obiettivo è rendere fruibili e "leggere" queste guide senza scendere troppo nel tecnico e scadere nella noia più totale.
+
+Spero non ti sia addormentato!

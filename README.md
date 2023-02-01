@@ -37,16 +37,28 @@ Prima di scendere nel dettaglio dei vari punti della guida, alcune considerazion
 Rispetto al CV, su LinkedIn la foto profilo è FONDAMENTALE (uno studio rivela che chi ha una foto profilo professionale ha 20x visualizzazioni del profilo rispetto a chi non ne ha). Usane una professionale (NO foto sgranate, NO fototessere di 20 anni fa, NO foto al mare..insomma hai capito), ti prego. Come ho scritto nella guida al CV, se non hai una foto anche un avatar o una illustrazione vanno bene. Ma anche qui, che siano professionali, non fatte con Paint ecco.
 Riguardo l'immagine di copertina: non è a mio avviso fondamentale ma io la sfrutterei per dare un tocco di personalizzazione al tuo profilo: un pezzettino di codice? Una quote famosa? Un meme? Ecco, puoi usare l'immagine di copertina per "trasmettere qualcosa" a chi visita il tuo profilo. Sfruttala!
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ## 3) La headline
 
 Immediatamente dopo aver settato la foto profilo e l'immagine di copertina, bisogna porre la massima attenzione a quest'altra importantissima sezione, ovvero la headline: è la sezione testuale che si trova immediatamente sotto la foto, che di norma comprende il sommario e la posizione lavorativa attuale.
 Nell'immagine sottostante trovate un ottimo esempio, ovvero la headline di Patryk: un developer molto attivo su Linkedin e che a mio avviso ha un profilo estremamente curato in tutti i suoi dettagli.
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 ![headline-patryk.png](./assets/images/headline-patryk.png)
 
 Ma perché la sua headline funziona? Semplice: fornisce in maniera veloce ma efficace una overview prima di tutto dello stack tecnologico che utilizza e conosce (nel suo caso sia per la parte FE che per la parte BE) ma anche un ulteriore spunto riguardo la sua passione per l'open source.
 Inoltre, e questa è una cosa importantissima, tutte le tecnologie/framework che ha inserito nella headline sono delle keyword (ricordi? Ne abbiamo parlato nell'introduzione) quindi i recruiter ricercando ad esempio un dev che conosca sia Typescript che React sicuramente capiteranno sul profilo di Patryk perché quel testo nelle headline funge da parola chiave. 
 A prescindere dalle keyword, la headline è a colpo d'occhio una delle primissime cose che si notano sul profilo: è uno spazio dove devi riuscire a comunicare in poche righe chi sei, cosa fai (ed eventualmente, cosa cerchi). Sfruttala AL MASSIMO!
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 ## 4) Sezione informazioni
 
@@ -57,6 +69,10 @@ Ti riporto un esempio di una sezione informazioni estremamente dettagliata di un
 
 La sezione informazioni, così come compilata nell'esempio, contiene tutte le informazioni che servono ad un/una recruiter: una breve descrizione di sè e dell'approccio al lavoro, un elenco esaustivo di tecnologie/linguaggi/framework/software/metodologie (ed indovinate un pò? SONO TUTTE KEYWORD! ) ed anche ulteriori input riguardo la gestione del team, la capacità di seguire colloqui tecnici e l'abitudine al lavoro Agile. Prendi spunto!
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ## 5) Le esperienze professionali
 
 Che dire di questa sezione? E' in assoluto una delle più importanti dell'intero profilo (se non LA più importante). Alcuni spunti utili a riguardo:
@@ -65,17 +81,29 @@ Che dire di questa sezione? E' in assoluto una delle più importanti dell'intero
 - cerca di "agganciare" correttamente il nome dell'azienda per la quale lavori. Spesso trovo profili con palesi errori di battitura riguardo l'azienda per la quale si lavora, di conseguenza LinkedIn non mostra il logo corretto dell'azienda. Di conseguenza, un recruiter che ad esempio voglia andare a leggere di cosa si occupa l'azienda, il settore, le dimensioni ed altro banalmente non potrà farlo. Poni quindi attenzione a selezionare correttamente l'azienda per la quale lavori, è importantissimo!
 - content is king: sarò ridondante ma più informazioni scrivi sul profilo meglio é: meglio un profilo ben curato, con tante informazioni, che invece uno scarno e vuoto. Ti assicuro che l'effort sulla compilazione del proprio profilo viene notato!
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ## 6) La formazione
 
 La sezione del profilo LinkedIn dedicata alla formazione viene spesso tralasciata, ma in realtà è importante tanto quanto le altre sezioni. E' una delle sezioni, infatti, che viene "letta" dai vari filtri di Linkedin Recruiter nel momento in cui i recruiter impostano una ricerca mirata (ad esempio: uno specifico titolo di studio, una particolare università o uno specifico indirizzo). Quindi presta molta attenzione a questa sezione e compilala in maniera esaustiva. Inserisci quindi il nome della facoltà, l'indirizzo scelto, il voto di laurea, ed i nomi degli esami che a tuo avviso potrebbero essere affini al tuo percorso professionale. 
 
 Se stai frequentando una Academy/Bootcamp IT, ovviamente inserirlo ti farà apparire come studente di quella academy, e sicuramente aiuta nell'indicizzazione del tuo profilo (anche perché, scrivendo le parole chiave relative alle tecnologie/linguaggi che stai studiando, inserisci ulteriori parole chiave sul tuo profilo che, come avrai capito, sono fondamentali).
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ## 7) Licenze e certificazioni
 
 Personalmente, è una delle sezioni che leggo con più interesse e curiosità sui profili Linkedin che visito (ma io sono un animale strano, adoro leggere la sezione hobby sul CV quindi probabilmente faccio poco testo). Nota bene: non sono un tecnico, di conseguenza non riesco a carpire il reale "valore tecnico" di una certificazione x piuttosto che y ma, il fatto di avere certificazioni, attestati e licenze denota un certo approccio alla auto-formazione che a mio avviso è un plus. Ok, alcune aziende richiedono obbligatoriamente delle certificazioni (penso ad esempio alla Green Belt Six Sigma, ormai imprescindibile per le basi di un buon Project Manager, o le certificazioni cloud AWS/Azure/Google Cloud) per accedere alle loro selezioni o per un avanzamento di carriera, e questo ci sta. 
 
 Ma molto spesso, invece, non c'è alcun obbligo per un/una professionista di certificarsi e formarsi, sta semplicemente alla volontà del singolo di accrescere le proprie competenze e conoscenze in maniera "ufficiale", con un certifcato o una specifica licenza. Questo, personalmente, lo apprezzo moltissimo e lo trovo un ottimo spunto di conversazione durante i colloqui. Di conseguenza, questa sezione è assolutamente adatta per mettere in mostra la tua propensione all'apprendimento ed alla tua crescita professionale.
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 ## 8) Competenze
 
@@ -88,10 +116,18 @@ La sezione competenze DEVE essere curata e tenuta in ordine per vari motivi, ti 
 - avevamo parlato delle competenze anche nel punto 5, le esperienze professionali: LinkedIn ti permette di "legare" le competenze all'esperienza professionale, super utile per dimostrare che competenze stai utilizzando nell'attuale ruolo che ricopri.
 - chiedi a colleghi/amici/collegamenti di confermarti le competenze: è ovviamente una pura vanity metric ma probabilmente sai meglio di me che "l'effetto wow" di vedere una competenza confermata da tante persone funziona, quindi fallo!
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ## 9) Lingue
 
 Esattamente come per il CV, la sezione lingue fornisce la possibilità di comunicare la tua conoscenza di una o più lingue che non siano la madrelingua (nel nostro caso, ovviamente, l'italiano). Mi capita ad esempio di gestire selezioni dove è assolutamente obbligatoria la conoscenza dell'inglese (perché magari il team è internazionale, l'azienda ha clienti esteri, si sta espandendo fuori dall'Italia, etc), di conseguenza dimostrare una conoscenza di una lingua straniera mi aiuta a capire se il profilo che sto visitando soddisfa quel requisito. 
 Se hai certificazioni o attestati di lingua, è assolutamente ottima cosa inserirli nella sezione di cui abbiamo parlato prima, ovvero "Licenze e certificazioni".
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 ## 10) Referenze
 
@@ -99,9 +135,17 @@ Ecco un'altra sezione che adoro visitare (sì, sono strano, questo lo conferma).
 
 Fun fact: mentre visitavo un profilo di un developer (che, a prima vista, non mi convinceva particolarmente) ho notato che aveva ricevuto una referenza da un manager di alto livello che conosco bene. La referenza mi ha quindi spinto ad indagare maggiormente, contattando il developer che, infatti, durante il colloquio ha confermato l'attitudine e le skill che riportava la referenza positiva che aveva ricevuto dal manager. Probabilmente, se non ci fosse stata quella referenza, non lo avrei mai contattato!
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 ## 11) Considerazioni finali
 
 Se sei arrivato fin qui ti ringrazio, perché come puoi notare il dono della sintesi non mi appartiene (probabilmente lo avrai notato anche leggendo la guida al CV, che è ancora più lunga di questa). In realtà, per dovere di cronaca, ho volontariamente omesso moltissimi altri temi e funzionalità di LinkedIn a mio avviso interessanti ed estremamente utili (chi ti ha visitato il profilo, le visualizzazioni organiche dei post, l'uso degli hashtag, il profilo creator, l'algoritmo, il link nel post e nei commenti e molto altro ancora), ma l'ho fatto semplicemente per un motivo pratico, ovvero cercare di non appesantire questa guida con eccessivo nozionismo o tecnicismi verticali della piattaforma.
 Lo so, sei un dev, tu nei tecnicismi probabilmente ci sguazzi, ed hai anche ragione! Ma, ecco, l'obiettivo è rendere fruibili e "leggere" queste guide senza scendere troppo nel tecnico e scadere nella noia più totale.
 
 Se non ti sei addormentato, grazie di nuovo!
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>

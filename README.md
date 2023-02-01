@@ -55,7 +55,11 @@ La sezione informazioni, così come compilata nell'esempio, contiene tutte le in
 
 ## 5) Le esperienze professionali
 
-Lorem Ipsum
+Che dire di questa sezione? E' in assoluto una delle più importanti dell'intero profilo (se non LA più importante). Alcuni spunti utili a riguardo:
+- cerca di sfruttare al massimo il campo "Descrizione" quando inserisci o modifichi una esperienza lavorativa. Ormai avrai capito che tutto il testuale sul profilo fa parola chiave, quindi sfrutta questo campo per descrivere brevemente cosa fai in azienda, le mansioni, i task giornalieri, le tecnologie ed il settore lavorativo dell'azienda per la quale lavori
+- aggancia alla posizione lavorativa le competenze: lo vedremo nella sezione dedicata più avanti, ma scrivere le competenze sul profilo è FONDAMENTALE per farsi trovare dai recruiter. Agganciare quindi le competenze al lavoro che si sta svolgendo (o si è svolto in precedenza) è utilissimo per dimostrare uno "storico" professionale coerente con quello che fai attualmente o con quello che hai fatto in precedenza
+- cerca di "agganciare" correttamente il nome dell'azienda per la quale lavori. Spesso trovo profili con palesi errori di battitura riguardo l'azienda per la quale si lavora, di conseguenza LinkedIn non mostra il logo corretto dell'azienda. Di conseguenza, un recruiter che ad esempio voglia andare a leggere di cosa si occupa l'azienda, il settore, le dimensioni ed altro banalmente non potrà farlo. Poni quindi attenzione a selezionare correttamente l'azienda per la quale lavori, è importantissimo!
+- content is king: sarò ridondante ma più informazioni scrivi sul profilo meglio é: meglio un profilo ben curato, con tante informazioni, che invece uno scarno e vuoto. Ti assicuro che l'effort sulla compilazione del proprio profilo viene notato!
 
 ## 6) La formazione
 

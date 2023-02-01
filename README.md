@@ -63,7 +63,8 @@ Che dire di questa sezione? E' in assoluto una delle più importanti dell'intero
 
 ## 6) La formazione
 
-Lorem Ipsum
+La sezione del profilo LinkedIn dedicata alla formazione viene spesso tralasciata, ma in realtà è importante tanto quanto le altre sezioni. E' una delle sezioni, infatti, che viene "letta" dai vari filtri di Linkedin Recruiter nel momento in cui i recruiter impostano una ricerca mirata (ad esempio: uno specifico titolo di studio, una particolare università o uno specifico indirizzo). Quindi presta molta attenzione a questa sezione e compilala in maniera esaustiva. Inserisci quindi il nome della facoltà, l'indirizzo scelto, il voto di laurea, ed i nomi degli esami che a tuo avviso potrebbero essere affini al tuo percorso professionale. 
+Se stai frequentando una Academy/Bootcamp IT, ovviamente inserirlo ti farà apparire come studente di quella academy, e sicuramente aiuta nell'indicizzazione del tuo profilo (anche perché, scrivendo le parole chiave relative alle tecnologie/linguaggi che stai studiando, inserisci ulteriori parole chiave sul tuo profilo che, come avrai capito, sono fondamentali).
 
 ## 7) Licenze e certificazioni
 

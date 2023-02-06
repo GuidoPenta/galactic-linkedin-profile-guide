@@ -1,22 +1,29 @@
 
 # Galactic Linkedin profile guide
 
-Welcome to this guide to optimizing your LinkedIn profile! Exactly like the CV guide (which you can find here ) the goal is to give you useful hints to make your LinkedIn profile attractive but above all "keyword-friendly". Being a professional social network, the purpose of the guide is simple: to get you found (assuming, of course, you want to be found 😜 )! If you are not looking for a job, this guide can still be useful for you to better position your profile, make it more professional, and can provide you with some insights and trivia.
+![LinkedIn_Logo_2013.png](./assets/images/linkedin-logo.png)
 
-Index
-General Directions
-Profile photo and cover photo
-The Headline
-Information (about me) section
-Professional experiences
-Training
-Licenses and certifications
-Skills
-Languages
-References
-Considerations-final
+_Welcome to this guide to optimizing your LinkedIn profile! Exactly like the CV guide (which you can find <a href="https://guidopenta.github.io/galactic-CV-guide/">here</a ) the goal is to give you useful hints to make your LinkedIn profile attractive but above all "keyword-friendly". Being a professional social network, the purpose of the guide is simple: to get you found (assuming, of course, you want to be found 😜)! If you are not looking for a job, this guide can still be useful for you to better position your profile, make it more professional, and can provide you with some insights and trivia._
 
-1) General Directions.
+  
+## Index
+  
+  
+1. [General Info](#1-general-info)
+2. [Profile and cover photo[(#2-profile-and-cover-photo)
+3. [The Headline](#3-the-headline)
+4. [About me section](#4-about-me-section)
+5. [Professional experiences](5#professional-experiences)
+6. [Training experiences](6#training-experiences)
+7. [Licenses and certifications](7#licenses-and-certifications)
+8. [Skills](8#skills)
+9. [Languages](9#languages)
+10. [References[(10#references)
+11. [Final Considerations](11#final-considerations)
+
+  
+## 1) General Info
+  
 LinkedIn, worldwide, has about 830 million active users, including about 16 million in Italy. For the tech industry, it is, without a doubt, the best tool that people working as recruiters/head hunters/talent acquisition use every day to find IT professionals/people. Before we get into the details of the various points of the guide, some general considerations to get you off to the best start:
 - I know, a lot of recruiters don't know your jargon, the names of technologies/frameworks, confuse Java with Javascript (yes, it still happens) and so on. And that, I guess, pisses you off. BUT, please still try to always be sympathetic and empathetic to those who write to you. Try, as much as possible, to always respond to the messages you receive because on the other side there is still a person who is working and deserves respect just as much as you do. If you are not currently looking for a new job, I suggest perhaps preparing a preset text to send to the person who writes you, to use trivially as a reply. You waste a few seconds of time but I assure you that whoever is on the other end will appreciate it!
 - The opentowork issue: surely you think the green #opentowork frame is no big deal, right? And you also think that if you activate it, your company will quickly catch you out and realize that you are looking for a new job. I don't know if you know this, but there is also an option to report that you are opentowork but not to the "public": just click on the "available for" button under your profile picture and, after selecting the "change job" option in the mask that will open to you, scroll down and you will find a menu with the title "choose who can see that you are available for job opportunities" and select "recruiters only": this way recruiters, using Linkedin Recruiter, will see an entry in your profile "available for work". Easy!

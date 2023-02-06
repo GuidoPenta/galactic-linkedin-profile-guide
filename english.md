@@ -10,7 +10,7 @@ _Welcome to this guide to optimizing your LinkedIn profile! Exactly like the CV 
   
   
 1. [General Info](#1-general-info)
-2. [Profile and cover photo[(#2-profile-and-cover-photo)
+2. [Profile and cover photo](#2-profile-and-cover-photo)
 3. [The Headline](#3-the-headline)
 4. [About me section](#4-about-me-section)
 5. [Professional experiences](5#professional-experiences)
@@ -18,7 +18,7 @@ _Welcome to this guide to optimizing your LinkedIn profile! Exactly like the CV 
 7. [Licenses and certifications](7#licenses-and-certifications)
 8. [Skills](8#skills)
 9. [Languages](9#languages)
-10. [References[(10#references)
+10. [References](10#references)
 11. [Final Considerations](11#final-considerations)
 
   

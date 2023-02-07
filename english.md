@@ -45,7 +45,9 @@ Compared to the CV, on LinkedIn the profile photo is FUNDAMENTAL (one study reve
 
 ## 3) The Headline
 
-Immediately after setting the profile photo and the cover image, you have to pay the utmost attention to this other very important section, namely the headline: it is the text section located immediately below the photo, which usually includes the summary and the current job position. In the image below you will find a very good example, which is the headline of Patryk: a developer who is very active on Linkedin and who in my opinion has an extremely well-maintained profile in all its details.
+Immediately after setting the profile photo and the cover image, you have to pay the utmost attention to this other very important section, namely the headline: it is the text section located immediately below the photo, which usually includes the summary and the current job position. In the image below you will find a very good example, which is the headline of Patryk: a developer who is very active on Linkedin and who in my opinion has an extremely well-maintained profile in all its details
+
+![headline-patryk.png](./assets/images/headline-patryk.png)
 
 But why does his headline work? Simple: it provides in a quick but effective way an overview first of the technology stack he uses and knows (in his case for both the FE and BE parts) but also an additional cue about his passion for open source. In addition, and this is a very important thing, all the technologies/frameworks he has included in the headline are keywords (remember? We talked about this in the introduction) so, for example, searching for a dev who knows both Typescript and React, recruiters will definitely land on Patryk's profile because that text in the headline serves as a keyword. Regardless of keywords, the headline is at a glance one of the very first things you notice about the profile: it is a space where you need to be able to communicate in a few lines who you are, what you do (and possibly, what you are looking for). Make the most of it AT MAXIMUM!
 
@@ -56,6 +58,8 @@ But why does his headline work? Simple: it provides in a quick but effective way
 ## 4) About me section
 
 Exactly like the about me section on your resume, this section on your profile is most useful for providing an in-depth overview of your work experience, the languages/technologies/frameworks you know and use, future goals, activities you follow on a daily basis, and why not, even information that might not seem very useful (hobbies, what you like to do in your spare time, books you are reading, people you follow, projects you develop in your spare time) but that provides the reader with a more complete and detailed view of you. I give you an example of an extremely detailed information section from a senior dev I have among my contacts:
+
+![informazioni-about-me.png](./assets/images/informazioni-about-me.png)
 
 The information section, as compiled in the example, contains all the information a recruiter needs: a brief description of self and approach to the job, an exhaustive list of technologies/linguistics/frameworks/software/methodologies (and guess what? THEY'RE ALL KEYWORDS! ) and also additional input regarding team management, ability to follow technical interviews, and habit of Agile work. Take a cue!
 

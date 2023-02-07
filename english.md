@@ -31,7 +31,7 @@ LinkedIn, worldwide, has about 830 million active users, including about 16 mill
 - LinkedIn, like any other social network, has its own algorithm that regulates what appears in your feed, interactions between members, and more. To maintain a visible and "engaging" profile many online guides recommend posting 3-4 pieces of content per week and leaving at least two comments per day. This, at least, would be the golden rule for keeping a profile "friendly" to the algorithm. That said, you are free to use your profile as you see fit: if you don't have anything interesting to post, you don't have to! The great thing about LinkedIn is precisely the valuable content that is posted. I, for example, post very little (on average, once a week) but on the other hand, I comment a lot and keep alive the many relationships on the platform (even private messages "trigger" the algorithm, did you know that?). So find your personal "tone of voice" and adapt it to what you want to communicate. And remember: not communicating is also communicating 😁.
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 
@@ -40,7 +40,7 @@ LinkedIn, worldwide, has about 830 million active users, including about 16 mill
 Compared to the CV, on LinkedIn the profile photo is FUNDAMENTAL (one study reveals that those with a professional profile photo have 20x profile views than those without). Use a professional one (NO grainy photos, NO 20-year-old passport photos, NO beach photos..you get the idea), please. As I wrote in the CV guide, if you don't have a photo even an avatar or illustration is fine. But again, let them be professional, not done with Paint, that is. About the cover image: it is not in my opinion essential but I would use it to give your profile a personalized touch: a piece of code? A famous quote? A meme? Here, you can use the cover image to "convey something" to those who visit your profile. Make use of it!
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## 3) The Headline
@@ -50,7 +50,7 @@ Immediately after setting the profile photo and the cover image, you have to pay
 But why does his headline work? Simple: it provides in a quick but effective way an overview first of the technology stack he uses and knows (in his case for both the FE and BE parts) but also an additional cue about his passion for open source. In addition, and this is a very important thing, all the technologies/frameworks he has included in the headline are keywords (remember? We talked about this in the introduction) so, for example, searching for a dev who knows both Typescript and React, recruiters will definitely land on Patryk's profile because that text in the headline serves as a keyword. Regardless of keywords, the headline is at a glance one of the very first things you notice about the profile: it is a space where you need to be able to communicate in a few lines who you are, what you do (and possibly, what you are looking for). Make the most of it AT MAXIMUM!
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## 4) About me section
@@ -60,7 +60,7 @@ Exactly like the about me section on your resume, this section on your profile i
 The information section, as compiled in the example, contains all the information a recruiter needs: a brief description of self and approach to the job, an exhaustive list of technologies/linguistics/frameworks/software/methodologies (and guess what? THEY'RE ALL KEYWORDS! ) and also additional input regarding team management, ability to follow technical interviews, and habit of Agile work. Take a cue!
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 
@@ -73,7 +73,7 @@ Hook skills to the job position: we will see this in the dedicated section later
 - Content is king: I will be redundant, but the more information you write on the profile the better: better a well-edited profile with lots of information than a bare, empty one. I assure you that the effort on filling out one's profile is noticed!
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div> 
 
 ## 6) Training Experiences
@@ -82,7 +82,7 @@ The education section of the LinkedIn profile is often overlooked, but it is act
 If you are attending an IT Academy/Bootcamp, obviously entering it will make you appear as a student at that academy, and it certainly helps in indexing your profile (also because, by writing keywords related to the technologies/languages you are studying, you will put additional keywords on your profile that, as you may have guessed, are crucial).
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## 7) Licenses and Certifications
@@ -92,7 +92,7 @@ Personally, this is one of the sections I read with the most interest and curios
 But very often, however, there is no obligation for a/an individual professional to certify and train, it is simply up to the individual's willingness to increase their skills and knowledge in an "official" way, with a certifcate or specific license. This, personally, I greatly appreciate and find a great conversation starter during interviews. Consequently, this section is absolutely appropriate for showcasing your propensity for learning and professional growth.
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## 8) Skills
@@ -107,7 +107,7 @@ LinkedIn gives you the ability to "highlight" your top three skills, which will 
 - Ask colleagues/friends/connections to confirm competencies for you: it's obviously a pure vanity metric but you probably know better than I do that the "wow effect" of seeing a competency confirmed by lots of people works, so do it!
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## 9) Languages
@@ -115,7 +115,7 @@ LinkedIn gives you the ability to "highlight" your top three skills, which will 
 Exactly as with the CV, the languages section provides the possibility to communicate your knowledge of one or more languages other than your mother tongue (in our case, of course, Italian). For example, it happens to me to manage selections where knowledge of English is absolutely compulsory (because maybe the team is international, the company has foreign clients, is expanding outside Italy, etc.), consequently demonstrating a knowledge of a foreign language helps me to understand if the profile I am visiting meets that requirement. If you have language certifications or certificates, it is absolutely great to put them in the section we talked about earlier, which is "Licenses and Certifications."
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## 10) References
@@ -125,7 +125,7 @@ Here's another section I love to visit (yes, I'm weird, this confirms it). Revie
 Fun fact: While visiting a developer's profile (which, at first glance, didn't particularly appeal to me) I noticed that he had received a reference from a high-level manager I know well. The reference then prompted me to investigate further, contacting the developer who, in fact, during the interview confirmed the attitude and skills that the positive reference he had received from the manager reported. Probably, had that reference not been there, I would never have contacted him!
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## 11) Final considerations
@@ -135,6 +135,6 @@ If you have made it this far, I thank you, because as you can see, the gift of b
 If you haven't fallen asleep, thanks again!
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#index">↥ Back To Top</a></b>
 </div>
 

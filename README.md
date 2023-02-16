@@ -2,7 +2,7 @@
 
 ![LinkedIn_Logo_2013.png](./assets/images/linkedin-logo.png)
 
-_Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattamente come la guida al CV (che trovi <a href="https://guidopenta.github.io/galactic-CV-guide/">qui</a> ) l'obiettivo è quello di darti degli spunti utili per rendere il tuo profilo LinkedIn attrattivo ma soprattutto "keyword-friendly". Essendo un social network professionale, lo scopo della guida è semplice: farti trovare (sempre che, ovviamente, tu voglia farti trovare 😜 )! Se non sei in cerca di lavoro, questa guida può comunque esserti utile per meglio posizionare il tuo profilo, renderlo più professionale e può fornirti qualche spunto e curiosità._
+_Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattamente come la guida al CV (che trovi <a href="https://guidopenta.github.io/galactic-CV-guide/">qui</a> ) l'obiettivo è quello di darti degli spunti utili per rendere il tuo profilo LinkedIn attrattivo ma soprattutto "keyword-friendly". Essendo un social network professionale, lo scopo della guida è semplice: farti trovare (sempre che, ovviamente, tu voglia farti trovare 😜)! Se non sei in cerca di lavoro, questa guida può comunque esserti utile per meglio posizionare il tuo profilo, renderlo più professionale e può fornirti qualche spunto e curiosità._
 
 > [English version](./english.md)
 
@@ -114,7 +114,7 @@ Una cosa che noto SPESSISSIMO sui profili LinkedIn che visito giornalmente è la
 La sezione competenze DEVE essere curata e tenuta in ordine per vari motivi, ti spiego come:
 - Aggiorna costantemente la sezione, eliminando tecnologie/linguaggi/framework che non usi più (o che conosci ma non vuoi più utilizzare professionalmente) per evitare di ricevere proposte di lavoro con tecnologie che non ti interessano.
 - Una cosa importantissima è ordinare le competenze: metti in cima le competenze sulle quali sei più forte e alla fine quelle dove ti senti meno competente.
-- LinkedIn ti dà la possibiltità di mettere "in evidenza" la tua top three di competenze, che appariranno subito sul tuo profilo: ricollegandomi quindi al punto precedente, scegli le tre competenze dove ti senti più skillato e spostale in alto.
+- LinkedIn ti dà la possibilità di mettere "in evidenza" la tua top three di competenze, che appariranno subito sul tuo profilo: ricollegandomi quindi al punto precedente, scegli le tre competenze dove ti senti più skillato e spostale in alto.
 - Avevamo parlato delle competenze anche nel punto 5, le esperienze professionali: LinkedIn ti permette di "legare" le competenze all'esperienza professionale, super utile per dimostrare che competenze stai utilizzando nell'attuale ruolo che ricopri.
 - Chiedi a colleghi/amici/collegamenti di confermarti le competenze: è ovviamente una pura vanity metric ma probabilmente sai meglio di me che "l'effetto wow" di vedere una competenza confermata da tante persone funziona, quindi fallo!
 

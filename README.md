@@ -1,4 +1,4 @@
-# Guida Galattica al profilo LinkedIn
+# Guida Galattica al profilo LinkedIn / Galactic Linkedin profile guide
 
 ![LinkedIn_Logo_2013.png](./assets/images/linkedin-logo.png)
 

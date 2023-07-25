@@ -6,8 +6,7 @@ _Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattament
 
 > [English version](./english.md)
 
-
-## Indice 
+## Indice
 
 1. [Indicazioni generali](#1-indicazioni-generali)
 2. [Foto profilo e foto copertina](#2-foto-profilo-e-foto-copertina)
@@ -64,7 +63,7 @@ A prescindere dalle keyword, la headline è a colpo d'occhio una delle primissim
 
 ## 4) Sezione informazioni
 
-Esattamente come l'about me sul curriculum, questa sezione sul tuo profilo è utilissima per fornire una overview approfondita delle tue esperienze lavorative, i linguaggi/tecnologie/framework che conosci e che utilizzi, obiettivi futuri, attività che segui giornalmente e perché no, anche informazioni che potrebbero sembrare poco utili (hobbies, cosa ti piace fare nel tempo libero, i libri che stai leggendo, le persone che segui, i progetti che sviluppi nel tempo libero) ma che forniscono a chi legge una vista più completa e dettagliata su di te. 
+Esattamente come l'about me sul curriculum, questa sezione sul tuo profilo è utilissima per fornire una overview approfondita delle tue esperienze lavorative, i linguaggi/tecnologie/framework che conosci e che utilizzi, obiettivi futuri, attività che segui giornalmente e perché no, anche informazioni che potrebbero sembrare poco utili (hobbies, cosa ti piace fare nel tempo libero, i libri che stai leggendo, le persone che segui, i progetti che sviluppi nel tempo libero) ma che forniscono a chi legge una vista più completa e dettagliata su di te.
 Ti riporto un esempio di una sezione informazioni estremamente dettagliata di un senior dev che ho fra i contatti:
 
 ![informazioni-about-me.png](./assets/images/informazioni-about-me.png)
@@ -89,7 +88,7 @@ Che dire di questa sezione? È in assoluto una delle più importanti dell'intero
 
 ## 6) La formazione
 
-La sezione del profilo LinkedIn dedicata alla formazione viene spesso tralasciata, ma in realtà è importante tanto quanto le altre sezioni. È una delle sezioni, infatti, che viene "letta" dai vari filtri di Linkedin Recruiter nel momento in cui i recruiter impostano una ricerca mirata (ad esempio: uno specifico titolo di studio, una particolare università o uno specifico indirizzo). Quindi presta molta attenzione a questa sezione e compilala in maniera esaustiva. Inserisci quindi il nome della facoltà, l'indirizzo scelto, il voto di laurea, ed i nomi degli esami che a tuo avviso potrebbero essere affini al tuo percorso professionale. 
+La sezione del profilo LinkedIn dedicata alla formazione viene spesso tralasciata, ma in realtà è importante tanto quanto le altre sezioni. È una delle sezioni, infatti, che viene "letta" dai vari filtri di Linkedin Recruiter nel momento in cui i recruiter impostano una ricerca mirata (ad esempio: uno specifico titolo di studio, una particolare università o uno specifico indirizzo). Quindi presta molta attenzione a questa sezione e compilala in maniera esaustiva. Inserisci quindi il nome della facoltà, l'indirizzo scelto, il voto di laurea, ed i nomi degli esami che a tuo avviso potrebbero essere affini al tuo percorso professionale.
 
 Se stai frequentando una Academy/Bootcamp IT, ovviamente inserirlo ti farà apparire come studente di quella academy, e sicuramente aiuta nell'indicizzazione del tuo profilo (anche perché, scrivendo le parole chiave relative alle tecnologie/linguaggi che stai studiando, inserisci ulteriori parole chiave sul tuo profilo che, come avrai capito, sono fondamentali).
 
@@ -99,9 +98,9 @@ Se stai frequentando una Academy/Bootcamp IT, ovviamente inserirlo ti farà appa
 
 ## 7) Licenze e certificazioni
 
-Personalmente, è una delle sezioni che leggo con più interesse e curiosità sui profili Linkedin che visito (ma io sono un animale strano, adoro leggere la sezione hobby sul CV quindi probabilmente faccio poco testo). Nota bene: non sono un tecnico, di conseguenza non riesco a carpire il reale "valore tecnico" di una certificazione *x* piuttosto che *y* ma, il fatto di avere certificazioni, attestati e licenze denota un certo approccio alla auto-formazione che a mio avviso è un plus. Ok, alcune aziende richiedono obbligatoriamente delle certificazioni (penso ad esempio alla Green Belt Six Sigma, ormai imprescindibile per le basi di un buon Project Manager, o le certificazioni cloud AWS/Azure/Google Cloud) per accedere alle loro selezioni o per un avanzamento di carriera, e questo ci sta. 
+Personalmente, è una delle sezioni che leggo con più interesse e curiosità sui profili Linkedin che visito (ma io sono un animale strano, adoro leggere la sezione hobby sul CV quindi probabilmente faccio poco testo). Nota bene: non sono un tecnico, di conseguenza non riesco a carpire il reale "valore tecnico" di una certificazione *x* piuttosto che *y* ma, il fatto di avere certificazioni, attestati e licenze denota un certo approccio alla auto-formazione che a mio avviso è un plus. Ok, alcune aziende richiedono obbligatoriamente delle certificazioni (penso ad esempio alla Green Belt Six Sigma, ormai imprescindibile per le basi di un buon Project Manager, o le certificazioni cloud AWS/Azure/Google Cloud) per accedere alle loro selezioni o per un avanzamento di carriera, e questo ci sta.
 
-Ma molto spesso, invece, non c'è alcun obbligo per un/una professionista di certificarsi e formarsi, sta semplicemente alla volontà del singolo di accrescere le proprie competenze e conoscenze in maniera "ufficiale", con un certifcato o una specifica licenza. Questo, personalmente, lo apprezzo moltissimo e lo trovo un ottimo spunto di conversazione durante i colloqui. Di conseguenza, questa sezione è assolutamente adatta per mettere in mostra la tua propensione all'apprendimento ed alla tua crescita professionale.
+Ma molto spesso, invece, non c'è alcun obbligo per un/una professionista di certificarsi e formarsi, sta semplicemente alla volontà del singolo di accrescere le proprie competenze e conoscenze in maniera "ufficiale", con un certificato o una specifica licenza. Questo, personalmente, lo apprezzo moltissimo e lo trovo un ottimo spunto di conversazione durante i colloqui. Di conseguenza, questa sezione è assolutamente adatta per mettere in mostra la tua propensione all'apprendimento ed alla tua crescita professionale.
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
@@ -124,7 +123,7 @@ La sezione competenze DEVE essere curata e tenuta in ordine per vari motivi, ti 
 
 ## 9) Lingue
 
-Esattamente come per il CV, la sezione lingue fornisce la possibilità di comunicare la tua conoscenza di una o più lingue che non siano la madrelingua (nel nostro caso, ovviamente, l'italiano). Mi capita ad esempio di gestire selezioni dove è assolutamente obbligatoria la conoscenza dell'inglese (perché magari il team è internazionale, l'azienda ha clienti esteri, si sta espandendo fuori dall'Italia, etc.), di conseguenza dimostrare una conoscenza di una lingua straniera mi aiuta a capire se il profilo che sto visitando soddisfa quel requisito. 
+Esattamente come per il CV, la sezione lingue fornisce la possibilità di comunicare la tua conoscenza di una o più lingue che non siano la madrelingua (nel nostro caso, ovviamente, l'italiano). Mi capita ad esempio di gestire selezioni dove è assolutamente obbligatoria la conoscenza dell'inglese (perché magari il team è internazionale, l'azienda ha clienti esteri, si sta espandendo fuori dall'Italia, etc.), di conseguenza dimostrare una conoscenza di una lingua straniera mi aiuta a capire se il profilo che sto visitando soddisfa quel requisito.
 Se hai certificazioni o attestati di lingua, è assolutamente ottima cosa inserirli nella sezione di cui abbiamo parlato prima, ovvero "Licenze e certificazioni".
 
 <div align="right">

@@ -18,7 +18,8 @@ _Benvenuto/a in questa guida per ottimizzare il tuo profilo LinkedIn! Esattament
 8. [Competenze](#8-competenze)
 9. [Lingue](#9-lingue)
 10. [Referenze](#10-referenze)
-11. [Considerazioni-finali](#11-considerazioni-finali)
+11. [Pubblicazioni](#11-pubblicazioni)
+12. [Considerazioni-finali](#12-considerazioni-finali)
 
 ## 1) Indicazioni generali
 
@@ -140,7 +141,17 @@ Fun fact: mentre visitavo un profilo di un developer (che, a prima vista, non mi
   <b><a href="#indice">↥ Back To Top</a></b>
 </div>
 
-## 11) Considerazioni finali
+## 11) Pubblicazioni
+
+Come per il CV un'altra sezione di tutto rispetto sono le pubblicazioni. Questa sezione non solo aggiunge importanza al vostro profilo e lo arricchisce, ma può rilevarsi un elemento di rilievo in diversi casi. Può infatti essere particolarmente apprezzata da aziende orientate alla ricerca e all'innovazione. Le pubblicazioni possono quindi dimostrare la vostra propensione e volontà in questo ambito.
+
+Se avete pubblicazioni non esitate a metterle!
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
+## 12) Considerazioni finali
 
 Se sei arrivato fin qui ti ringrazio, perché come puoi notare il dono della sintesi non mi appartiene (probabilmente lo avrai notato anche leggendo la guida al CV, che è ancora più lunga di questa). In realtà, per dovere di cronaca, ho volontariamente omesso moltissimi altri temi e funzionalità di LinkedIn a mio avviso interessanti ed estremamente utili (chi ti ha visitato il profilo, le visualizzazioni organiche dei post, l'uso degli hashtag, il profilo creator, l'algoritmo, il link nel post e nei commenti e molto altro ancora), ma l'ho fatto semplicemente per un motivo pratico, ovvero cercare di non appesantire questa guida con eccessivo nozionismo o tecnicismi verticali della piattaforma.
 Lo so, sei un dev, tu nei tecnicismi probabilmente ci sguazzi, ed hai anche ragione! Ma, ecco, l'obiettivo è rendere fruibili e "leggere" queste guide senza scendere troppo nel tecnico e scadere nella noia più totale.

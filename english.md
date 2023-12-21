@@ -19,7 +19,8 @@ _Welcome to this guide to optimizing your LinkedIn profile! Exactly like the CV 
 8. [Skills](8#skills)
 9. [Languages](9#languages)
 10. [References](10#references)
-11. [Final Considerations](11#final-considerations)
+11. [Publications](11#publications)
+12. [Final Considerations](12#final-considerations)
 
   
 ## 1) General Info
@@ -132,7 +133,17 @@ Fun fact: While visiting a developer's profile (which, at first glance, didn't p
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## 11) Final considerations
+## 11) Publications
+
+As with the CV, another respectable section is publications. This section not only adds importance to your profile and enriches it, but can also be an important element in several cases. In fact, it may  be particularly appreciated by research and innovation-oriented companies. Publications can therefore demonstrate your inclination and willingness in this area.
+
+If you have publications, do not hesitate to post them!
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## 12) Final considerations
 
 If you have made it this far, I thank you, because as you can see, the gift of brevity does not belong to me (you probably also noticed this when reading the CV guide, which is even longer than this one). In fact, for the sake of the record, I have voluntarily omitted many other LinkedIn topics and features that I think are interesting and extremely useful (who visited your profile, organic post views, the use of hashtags, the profile creator, the algorithm, linking in the post and in comments, and much more), but I have done so simply for a practical reason, which is to try not to burden this guide with excessive vocabularies or vertical technicalities of the platform. I know, you're a dev, you probably wallow in technicalities, and you're also right! But, there you go, the goal is to make these guides usable and "readable" without getting too technical and lapsing into utter boredom.
 
